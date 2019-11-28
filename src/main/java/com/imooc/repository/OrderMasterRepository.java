@@ -7,9 +7,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 21:31
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 21:31
  */
 public interface OrderMasterRepository extends JpaRepository<OrderMaster, String> {
 

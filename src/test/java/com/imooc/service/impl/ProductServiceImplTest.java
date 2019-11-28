@@ -15,9 +15,8 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 20:57
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 20:57
  */
 @Component
 public class ProductServiceImplTest extends SellApplicationTests {

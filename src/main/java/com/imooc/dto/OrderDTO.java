@@ -9,9 +9,8 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 18:40
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 18:40
  */
 @Data
 public class OrderDTO {

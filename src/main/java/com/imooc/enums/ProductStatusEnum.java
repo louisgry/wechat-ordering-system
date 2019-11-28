@@ -3,9 +3,8 @@ package com.imooc.enums;
 import lombok.Getter;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 20:46
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 20:46
  */
 @Getter
 public enum ProductStatusEnum {

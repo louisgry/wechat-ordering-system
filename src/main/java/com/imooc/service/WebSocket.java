@@ -11,9 +11,8 @@ import javax.websocket.server.ServerEndpoint;
 import java.util.concurrent.CopyOnWriteArraySet;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 19:40
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 19:40
  */
 @Component
 @ServerEndpoint("/webSocket")

@@ -1,3 +1,3 @@
 # 微信点餐系统
-Wechat Ordering System: Based on Spring Boot and Redis
+Wechat Ordering System: Leveraging Spring Boot and Redis
 

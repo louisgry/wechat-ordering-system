@@ -14,9 +14,8 @@ import java.math.BigDecimal;
 import static org.junit.Assert.*;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 21:36
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 21:36
  */
 @Component
 public class OrderMasterRepositoryTest extends SellApplicationTests {

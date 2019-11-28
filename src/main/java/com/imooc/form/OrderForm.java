@@ -4,9 +4,8 @@ import lombok.Data;
 import org.hibernate.validator.constraints.NotEmpty;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 20:16
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 20:16
  */
 @Data
 public class OrderForm {

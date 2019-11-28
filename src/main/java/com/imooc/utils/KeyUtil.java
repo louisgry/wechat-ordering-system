@@ -3,9 +3,8 @@ package com.imooc.utils;
 import java.util.Random;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 19:26
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 19:26
  */
 public class KeyUtil {
     /**

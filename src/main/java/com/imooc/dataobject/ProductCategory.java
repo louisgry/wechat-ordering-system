@@ -8,8 +8,8 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 19:46
+ * @author Louis
+ * @date Create in 2019/11/4 19:46
  * @Description: 类目
  */
 @Entity

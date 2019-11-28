@@ -3,9 +3,8 @@ package com.imooc.service;
 import com.imooc.dto.OrderDTO;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 19:56
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 19:56
  */
 public interface PayService {
 

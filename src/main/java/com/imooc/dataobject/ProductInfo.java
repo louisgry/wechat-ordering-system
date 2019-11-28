@@ -7,8 +7,8 @@ import javax.persistence.Id;
 import java.math.BigDecimal;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 20:38
+ * @author Louis
+ * @date Create in 2019/11/4 20:38
  * @Description: 商品
  */
 @Entity

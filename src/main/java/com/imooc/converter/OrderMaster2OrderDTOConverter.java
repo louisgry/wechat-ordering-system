@@ -8,9 +8,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 19:54
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 19:54
  */
 public class OrderMaster2OrderDTOConverter {
 

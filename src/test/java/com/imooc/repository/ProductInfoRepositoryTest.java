@@ -14,9 +14,8 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 20:43
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 20:43
  */
 @Component
 public class ProductInfoRepositoryTest extends SellApplicationTests {
@@ -32,7 +31,7 @@ public class ProductInfoRepositoryTest extends SellApplicationTests {
         productInfo.setProductPrice(new BigDecimal(3.2));
         productInfo.setProductStock(100);
         productInfo.setProductDescription("很好吃");
-        productInfo.setProductIcon("image.imooc.com/1.jpg");
+        productInfo.setProductIcon("https://ali.xinshipu.cn/20131201/original/1385898023084.jpg");
         productInfo.setProductStatus(0);
         productInfo.setCategoryType(2);
 

@@ -23,9 +23,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 20:13
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 20:13
  */
 @RestController
 @RequestMapping("/buyer/order")

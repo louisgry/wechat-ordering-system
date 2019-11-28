@@ -10,9 +10,8 @@ import javax.persistence.Id;
 import java.math.BigDecimal;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 21:27
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 21:27
  */
 @Entity
 @DynamicUpdate

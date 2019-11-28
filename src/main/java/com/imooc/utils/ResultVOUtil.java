@@ -3,9 +3,8 @@ package com.imooc.utils;
 import com.imooc.vo.ResultVO;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 21:08
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 21:08
  */
 public class ResultVOUtil {
 

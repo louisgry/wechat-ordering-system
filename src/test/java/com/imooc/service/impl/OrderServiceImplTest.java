@@ -20,9 +20,8 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 19:41
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 19:41
  */
 @Component
 @Slf4j

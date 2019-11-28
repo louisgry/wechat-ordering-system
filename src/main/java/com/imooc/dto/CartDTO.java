@@ -3,9 +3,8 @@ package com.imooc.dto;
 import lombok.Data;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/5 19:29
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/5 19:29
  */
 @Data
 public class CartDTO {

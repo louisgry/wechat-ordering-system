@@ -19,9 +19,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @Author: Louis
- * @Date: Create in 2019/11/4 21:02
- * @Description:
+ * @author Louis
+ * @date Create in 2019/11/4 21:02
  */
 @RestController
 @RequestMapping("/buyer/product")
