@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sell.iml" filepath="$PROJECT_DIR$/sell.iml" />
       <module fileurl="file://$PROJECT_DIR$/wechat-ordering-system.iml" filepath="$PROJECT_DIR$/wechat-ordering-system.iml" />
     </modules>
   </component>

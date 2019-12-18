@@ -7,5 +7,7 @@ spring:
   jpa:
     show-sql: true
     database-platform: org.hibernate.dialect.MySQL5Dialect
+  jackson:
+    default-property-inclusion: non_null
 server:
   context-path: /sell
