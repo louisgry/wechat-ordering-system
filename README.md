@@ -1,5 +1,6 @@
-# 食堂外卖App
-Canteen Takeaway App: Leveraging Spring Boot and Redis
+# [微信点餐系统](https://coding.imooc.com/class/117.html)
+WeChat Ordering System: Leveraging Spring Boot and Redis
+
 
 - [项目设计](#项目设计)
     - [技术栈](#技术栈)
